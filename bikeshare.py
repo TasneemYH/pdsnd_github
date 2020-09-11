@@ -199,7 +199,6 @@ def display_data(df):
     """Displays row data."""
     i = 0
     j = 5
-    k = 0
     row_data = 'y'
     while row_data.lower() == 'y' or row_data.lower() == 'yes':
         row_data = input ('\nDo you want to see raw data?\n')
