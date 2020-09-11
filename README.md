@@ -1,14 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+Septemebr 11, 2020
 
 ### Project Title
-Replace the Project Title
+BikeShare Project
 
 ### Description
-Describe what your project is about and what it does
+An interactive application to provide users with information about bikes' trips in 3 cities
 
 ### Files used
-Include the files used
+chicago.csv; new_york_city.csv; wadhington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
